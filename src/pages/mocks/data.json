@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "FIRST",
+      "description": "Камера с отсюда",
+      "path": "/mocks/first.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "SECOND",
+      "description": "Камера с оттудова",
+      "path": "/mocks/first.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "THIRD",
+      "description": "Камера с вонтамто",
+      "path": "/mocks/first.jpeg"
+    }
+  ]
+}

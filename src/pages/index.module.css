@@ -1,0 +1,46 @@
+.mainPage {
+  padding-bottom: 30px;
+}
+
+.header {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.cameraBlock {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 25px;
+
+  margin-top: 30px;
+}
+
+.cameraItem {
+  justify-self: center;
+}
+
+
+
+.nameWrapper {
+  text-align: center;
+}
+
+.nameText {
+  font-size: 20px;
+}
+
+.descriptionWrapper {
+  margin-top: 15px;
+}
+
+.descriptionText {
+    font-size: 18px;
+}
+
+.imageWrapper {
+  width: 400px;
+  height: 400px;
+
+  position: relative;
+  margin-top: 20px;
+}
